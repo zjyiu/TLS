@@ -28,13 +28,4 @@
 
   pyinstaller安装命令为：pip install pyinstaller
 
-- server.exe正常运行的界面为：
-  ![image-20211115214943508](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20211115214943508.png)
-  
-  ![image-20211115221305982](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20211115221305982.png)
-  
-- client.exe正常运行的界面为：
-
-  ![image-20211115221240430](C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20211115221240430.png)
-
-然后服务器应该就能在D盘根目录下的get.txt文件中看到接收的数据。
+服务器应该能在D盘根目录下的get.txt文件中看到接收的数据。
